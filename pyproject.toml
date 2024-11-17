@@ -1,6 +1,5 @@
 [tool.poetry]
 name = "사진 영상에 특수 효과 처리하기"
-description = "Photo special effects processing application using OpenCV and PyQt5."
 license = "MIT"
 
 [tool.poetry.dependencies]
